@@ -1,0 +1,9 @@
+{
+  "sql_server": {
+    "name_server": "LAPTOP-RAHA",
+    "database": "Catecismo",
+    "user": "pythonconsultorUdemy",
+    "password": "UDLA",
+    "controlador_odbc": "{ODBC Driver 17 for SQL Server}"
+  }
+}
